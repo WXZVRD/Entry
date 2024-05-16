@@ -24,4 +24,4 @@ function checkUniqueId(data) {
 }
 
 console.log(decode(encoded, translations));
-console.log(checkUniqueId(encoded, translations));
+console.log(checkUniqueId(encoded));
